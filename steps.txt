@@ -1,0 +1,7 @@
+Steps to Use the AI-Powered Video Audio Replacement Tool
+1.Clone the Repository
+2.Set Up Google Cloud Credentials
+3.Install Required Libraries
+4.Set Up Azure OpenAI Credentials
+5.Run the Streamlit App
+6.Upload a Video File
